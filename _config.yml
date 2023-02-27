@@ -21,6 +21,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 #
 # title of site appears in banner
 title: Pasig Archives 
+color: white 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Umaagos ang pag-asa 
 # description appears in meta tags and other locations
